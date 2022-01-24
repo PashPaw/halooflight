@@ -9,7 +9,7 @@ __Other things that interest me:__
 
 - Shortwave radio
 - Clarinets
-- Aerophone minis
+- The Roland Aerophone mini
 - Video games
 - Reason (the software, not rationality)
 - Sewing (although I need to pick this up again)
