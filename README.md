@@ -13,4 +13,5 @@ __Other things that interest me:__
 - Video games
 - Reason (the software, not rationality)
 - Sewing (although I need to pick this up again)
+- Old digital calculators (namely the HP Voyager series and the TI-86)
 - Etc.
