@@ -1,7 +1,7 @@
 
 __Retro Projects on GitHub:__
 
-- [PDP-6 Stuff](https://github.com/PashPaw/PDP-6)<br >
+- [DECDMP](https://github.com/PashPaw/PDP-6)<br >
 - [TI-86 FTP Archive](https://github.com/PashPaw/ti86-ftp)<br >
 - [JOSS-II](https://github.com/PDP-6/JOSS-II)
 
